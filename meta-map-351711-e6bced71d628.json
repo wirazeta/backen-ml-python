@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "meta-map-351711",
+  "private_key_id": "e6bced71d628dbec2e9bfb26b04e19fd422fce51",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvHpS42Xd8OcH9\ncJyiY8QW+z5bbQDa1OzaIlE+JOsYBFHo6N5ac8Zq3Edgg7uPmPfhzh6ZtjDP3vqY\nVODzvX30mPCQVCvYnoCUuMlrjoIwJ2F4YrypCO1NIBJBqN6ZUSlhducgyeqCwMUT\nCU1mfRo3x9qHL6MTTUmqqXfoZSWrxG0CpbTQQL1km+VNSjGQkHxUjGZKsuOWUCDu\nh5pyXYPKNXGQq1kYbSqmlPjyjSfN2K8sKjZBgo6HM4wV3Dr6jaeY0HkP18PrkHxg\n1E8kO85O1GSf68kprBgLfhpzb8l+ervF2xS/JrQU+rrndniktNzfpEMuMvd+N0so\nA+QoR5H9AgMBAAECggEAARC8LIbMc7bCx8nyVhEFhSG7jDPoGIsy9vysEEmmt/SF\nDwTF4krZBWgvplAmmXsyXq0EGSqVzNmA3VcxdOdcsC4LgfQiSA8VVu+/PXI33EXh\n8wZ5OntWADdlO6QnyOE0bAuKUoI6gST2NhkYcgfhrryzZ7t5JnfjOojkyMDNOPzl\nkOpwsNg1vqcvPUhNjSk9h2kenxPiuDi9MVjD6CGVhp+5THBZGDLfh620QDBAF0r3\njrDNDeG67NZlskcIzKrAslDr5owxu3qMKjpJz5ux67AbO8AxDRIzkHzFA+lh/7B0\nUkoLsE4aacEiGOdp2q052GIqWibAusaCurMfmkHOGwKBgQDxwTkFLI1y0VBg+zvU\nhXUdhW0yuH+lQb33hbbXM8nElsLKQ4UbiMWpGl1TtBfWDlSB0Brw8qwDsPYia4Gz\njbXXN/+CpMaaPQedjQY6UYhyYeLdWHApsiuKrZXuguxxVAxxmzpam3GmhoCJREtU\nMAjQlGMtTMsZ9mlXSGXD6fsqMwKBgQC5cDCwxXaBu/BitYuzVtJ8GEOUnKw3bY6U\nCn4rZMGIvEoS+A0q+NklRk4PyRmqE8ZI8bF6M+ReeZBM54djp9B2LvLvXsAptqFv\n3fH2O57Ir1fCx0DaNhE+R8Z1/kAq1Sqn5qsYlbunl+5TnO3sXnlbE6q/2lOQQRPv\nmcGnXCiDDwKBgAKUGAKZHg0adGwEYff7UGt3L9n5o8rkb51DPNcAw2coYH19yN6p\nT8pk8Jfi9NognwAfcxoczH7hlU56rRB4M3dPLpd7IG8mtX0VsvpOQlFN//hyaAfZ\n0aMSBOZdWR5AUj2n9TBgNg8boiVUqCUGuiFXY9No3UWynh8DM6qqRTaHAoGBALBh\nhe6d45qCqKM7CyYJ7ysZ6S3x19zg2Dz3vgqIS41DizF/vwagq+pIdPeO0Fp1dKTt\nP2J8+TrjZd3AW4bul9nRzkDgXudOTz+YXA1ZqC46mb8qxwTHaJ9UpfCVZXNYTrpl\nLVi1E0jVulrNaYDqW4PFsSPLBrCvNccw+IG3ptEBAoGAb02LkUsWCFAuq2U6blaF\nAXJQmZW34hxXRYaLqDjK4AwjW+hYfZt0Seh70b+g8e3SLpTYyJQRY28aqPJ9zpeu\nKsMICwLbtxkDc6OX4K8FTf/LN73C1YniamKXZNbaU3h+yeu5qU0EDNUDzJbm+cQV\n42GXeH2+7PDOYSadFW0K4bQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "wira-zeta-prakosa-326@meta-map-351711.iam.gserviceaccount.com",
+  "client_id": "112660312384912356005",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wira-zeta-prakosa-326%40meta-map-351711.iam.gserviceaccount.com"
+}

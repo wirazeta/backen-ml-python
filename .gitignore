@@ -1,0 +1,9 @@
+images/*
+static/results/*
+runs/
+yolov7/
+traced_model.pt
+imagesparamphistomum 7(2).jpg
+routes/web.py
+routes/web1.py
+best.pt
